@@ -1,0 +1,7 @@
+airmon usr/share/fluxion/
+fluxion usr/share/fluxion/
+fluxion-launcher usr/bin/fluxion
+LICENSE usr/share/fluxion/
+README.md usr/share/fluxion/
+foxxy-fluxion.desktop usr/share/applications/
+foxxy-fluxion.desktop usr/share/foxxy-menu/applications/
